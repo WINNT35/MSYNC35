@@ -203,7 +203,7 @@ int main(void)
     char destPath[MAX_PATH];
 
     printf("MSYNC35 - VMware Mouse Driver for NT 3.51\n");
-    printf("==============================================\n\n");
+    printf("=========================================\n\n");
     printf("This installer will:\n");
     printf("  1. Copy MSYNC35.sys to your drivers folder\n");
     printf("  2. Register the driver in the registry\n\n");
